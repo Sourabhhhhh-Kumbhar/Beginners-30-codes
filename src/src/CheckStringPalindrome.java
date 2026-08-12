@@ -24,3 +24,6 @@ public class CheckStringPalindrome
         obj.checkString();
     }
 }
+
+//String == Reverse(String) → Palindrome
+//String != Reverse(String) → Not Palindrome
